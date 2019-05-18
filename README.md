@@ -39,6 +39,23 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
 [Understanding Einstein: The Special Theory of Relativity](https://www.coursera.org/learn/einstein-relativity?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-JK8Qq8E816OSUZl0vtyaYA&siteID=SAyYsTvLiGQ-JK8Qq8E816OSUZl0vtyaYA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | Stanford | 40 hours | 5-10 hours/week | self-paced | none | :-1:
 [Introduction to Chemistry: Structures and Solutions](https://www.coursera.org/learn/basic-chemistry?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-AHXXINV8K2smcpFnsNH.pA&siteID=SAyYsTvLiGQ-AHXXINV8K2smcpFnsNH.pA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | Duke | 26 hours | 2-4 hours/week | self-paced | none | :-1:
 
+## Social Sciences
+[Economics of Money and Banking](https://www.coursera.org/learn/money-banking?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-AnQB.aNo9gdADsIXpQc5AA&siteID=SAyYsTvLiGQ-AnQB.aNo9gdADsIXpQc5AA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | Columbia | 45 hours | 5 hours/week | self-paced | none | :-1:
+[Welcome to Game Theory](https://www.coursera.org/learn/game-theory-introduction?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-8jRQiYcWPp79JiMobz2Mlg&siteID=SAyYsTvLiGQ-8jRQiYcWPp79JiMobz2Mlg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | Tokyo | 11 hours | 2-4 hours/week | self-paced | none | :-1:
+[Microeconomics](https://www.edx.org/course/microeconomics-2?source=aw&awc=6798_1558158504_50ce98514ba0bec9ca86dab38e8b759b&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F) | MITx | 11 weeks | 12-14 hours/week | self-paced | none | :-1:
+[Introduction to Psychology](https://www.coursera.org/learn/introduction-psych?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-nWUDZMherQ8V1isdRbhb5A&siteID=SAyYsTvLiGQ-nWUDZMherQ8V1isdRbhb5A&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | Toronto | 33 hours | 2-4 hours/week | self-paced | none | :-1:
+[Introduction to Developmental Psychology](https://www.edx.org/course/introduction-to-developmental-psychology-1?source=aw&awc=6798_1558158817_63143d86b0c778f64c20596c73d19372&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F) | Queensland | 8 weeks | 2-3 hours/week | self-paced | none | :-1:
+[What is a Mind?](https://www.futurelearn.com/courses/what-is-a-mind?utm_campaign=Courses+feed&utm_medium=courses-feed&utm_source=courses-feed&utm_source=RakutenMarketing&utm_medium=Affiliate&utm_campaign=3347507:Class+Central&utm_content=10:1&utm_term=USNetwork&ranMID=44015&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-C7.A0zANwwWaNsjeKwrcMg) | Cape Town | 6 weeks | 3 hours/week | self-paced | none | :-1:
+
+
+
+
+
+
+
+
+
+
 
 
 
