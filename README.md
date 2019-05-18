@@ -1,6 +1,17 @@
 # Open Source Courses for Various Subjects
 Free online courses for personal interests.
 
+## Religion
+
+Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
+:-- | :--: | :--: | :--: | :--: | :--: | :--:
+[Early Christianity: The Letters of Paul](https://www.edx.org/course/early-christianity-letters-paul-harvardx-hds1544-1x?source=aw&awc=6798_1558210924_1ee819652f5f42e79cf99d938bc9d8a5&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F) | Harvard | 12 weeks | 3-4 hours/week | self-paced | none | :-1:
+[A Journey through Western Christianity: from Persecuted Faith to Global Religion (200 - 1650)](https://www.coursera.org/learn/western-christianity-200-1650?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-d8gJobQtOBnIhpPQnuAimA&siteID=SAyYsTvLiGQ-d8gJobQtOBnIhpPQnuAimA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | Yale | 32 hours | 3-4 hours/week | self-paced | none | :-1:
+[Judaism Through Its Scriptures](https://www.edx.org/course/judaism-through-its-scriptures-2?source=aw&awc=6798_1558211119_bd20dbd1d4b71f7525802a3610b2ac35&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F) | Harvard | 4 weeks | 5-10 hours/week | self-paced | none | :-1:
+[Christianity Through its Scriptures](https://www.edx.org/course/christianity-through-its-scriptures?source=aw&awc=6798_1558211188_dd89c14e88b1d1cb535df6923a42435d&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F) | Harvard | 4 weeks | 5-10 hours/week | self-paced | none | :-1:
+[Early Christian Outlook and its Jewish Matrix: Narratives of Gospels and Acts](https://www.edx.org/course/early-christian-outlook-and-its-jewish-matrix-narratives-of-gospels-and-acts-2?source=aw&awc=6798_1558211347_487d6977f4f173ccc462222111e92fb5&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F) | IsraelX | 9 weeks | 4-5 hours/week | self-paced | none | :-1:
+[Biblical Archaeology: The archaeology of ancient Israel and Judah](https://www.edx.org/course/biblical-archaeology-the-archaeology-of-ancient-israel-and-judah?source=aw&awc=6798_1558211458_7f808266011c192b66901d067f6fdd59&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F) | IsraelX | 8 weeks | 3-4 hours/week | self-paced | none | :-1:
+
 ## Philosophy
 
 Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
