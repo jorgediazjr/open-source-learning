@@ -40,6 +40,9 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
 [Introduction to Chemistry: Structures and Solutions](https://www.coursera.org/learn/basic-chemistry?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-AHXXINV8K2smcpFnsNH.pA&siteID=SAyYsTvLiGQ-AHXXINV8K2smcpFnsNH.pA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | Duke | 26 hours | 2-4 hours/week | self-paced | none | :-1:
 
 ## Social Sciences
+
+Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
+:-- | :--: | :--: | :--: | :--: | :--: | :--:
 [Economics of Money and Banking](https://www.coursera.org/learn/money-banking?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-AnQB.aNo9gdADsIXpQc5AA&siteID=SAyYsTvLiGQ-AnQB.aNo9gdADsIXpQc5AA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | Columbia | 45 hours | 5 hours/week | self-paced | none | :-1:
 [Welcome to Game Theory](https://www.coursera.org/learn/game-theory-introduction?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-8jRQiYcWPp79JiMobz2Mlg&siteID=SAyYsTvLiGQ-8jRQiYcWPp79JiMobz2Mlg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | Tokyo | 11 hours | 2-4 hours/week | self-paced | none | :-1:
 [Microeconomics](https://www.edx.org/course/microeconomics-2?source=aw&awc=6798_1558158504_50ce98514ba0bec9ca86dab38e8b759b&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F) | MITx | 11 weeks | 12-14 hours/week | self-paced | none | :-1:
