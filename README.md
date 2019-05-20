@@ -35,7 +35,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
 [The Holocaust - An Introduction (I): Nazi Germany: Ideology, The Jews and the World](https://www.coursera.org/learn/holocaust-introduction-1) | Tel Aviv | 3 weeks | 1-2 hours/week | self-paced | none | :-1:
 [The Holocaust - An Introduction (II): The Final Solution](https://www.coursera.org/learn/holocaust-introduction-2) | Tel Aviv | 3 weeks | 1-2 hours/week | self-paced | none | :-1:
-[https://www.coursera.org/learn/holocaust-introduction-2](https://www.coursera.org/learn/jerusalem) | 19 hours | 3-4 hours/week | self-paced | none | :-1:
+[The Fal and Rise of Jerusalem](https://www.coursera.org/learn/jerusalem) | a | 19 hours | 3-4 hours/week | self-paced | none | :-1:
 [An Introduction to C.S. Lewis: Writings and Significance](https://online.hillsdale.edu/courses/cslewis/home/schedule) | Hillsdale College | 4 weeks | 2-4 hours/week | self-paced | none | :-1:
 [Athens and Sparta](https://online.hillsdale.edu/courses/athens-and-sparta/schedule) | Hillsdale College | 4 weeks | 2-4 hours/week | self-paced | none | :-1:
 [Winston Churchill and Statesmanship](https://online.hillsdale.edu/courses/churchill/home/schedule) | Hillsdale College | 6 weeks | 2-4 hours/week | self-paced | none | :-1:
