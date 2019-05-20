@@ -41,6 +41,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
 [Winston Churchill and Statesmanship](https://online.hillsdale.edu/courses/churchill/home/schedule) | Hillsdale College | 6 weeks | 2-4 hours/week | self-paced | none | :-1:
 [The Second World Wars](https://online.hillsdale.edu/courses/WorldWarII/home/world-war-ii-schedule) | Hillsdale College | 6 weeks | 2-4 hours/week | self-paced | none | :-1:
 [A Proper Understanding of K-12 Education: Theory and Practice](https://online.hillsdale.edu/courses/education/home/edu-course-schedule) | Hillsdale College | 10 weeks | 2-4 hours/week | self-paced | none | :-1:
+[Shakespeare: Hamlet and The Tempest](https://online.hillsdale.edu/courses/shakespeare/schedule) | Hillsdale College | 10 weeks | 2-4 hours/week | self-paced | none | :-1:
 
 
 ## Politics
