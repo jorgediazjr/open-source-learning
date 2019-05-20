@@ -12,6 +12,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
 [Early Christian Outlook and its Jewish Matrix: Narratives of Gospels and Acts](https://www.edx.org/course/early-christian-outlook-and-its-jewish-matrix-narratives-of-gospels-and-acts-2?source=aw&awc=6798_1558211347_487d6977f4f173ccc462222111e92fb5&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F) | IsraelX | 9 weeks | 4-5 hours/week | self-paced | none | :-1:
 [Biblical Archaeology: The archaeology of ancient Israel and Judah](https://www.edx.org/course/biblical-archaeology-the-archaeology-of-ancient-israel-and-judah?source=aw&awc=6798_1558211458_7f808266011c192b66901d067f6fdd59&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F) | IsraelX | 8 weeks | 3-4 hours/week | self-paced | none | :-1:
 
+
 ## Philosophy
 
 Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
@@ -27,6 +28,33 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
 [Ideas of the Twentieth Century](https://www.edx.org/course/ideas-twentieth-century-utaustinx-ut-2-02x?source=aw&awc=6798_1558155801_5d0462bcac2e986d68049d38f846e109&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F) | Texas | 15 weeks | 4-6 hours/week | self-paced | none | :-1:
 [Relativism](https://www.coursera.org/learn/relativism?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-2iDh.0GdLl89QzoQJqgLHg&siteID=SAyYsTvLiGQ-2iDh.0GdLl89QzoQJqgLHg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | UCI | 4 weeks | 3 hours/week | self-paced | none | :-1:
 
+
+## History
+
+Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
+:-- | :--: | :--: | :--: | :--: | :--: | :--:
+[The Holocaust - An Introduction (I): Nazi Germany: Ideology, The Jews and the World](https://www.coursera.org/learn/holocaust-introduction-1) | Tel Aviv | 3 weeks | 1-2 hours/week | self-paced | none | :-1:
+[The Holocaust - An Introduction (II): The Final Solution](https://www.coursera.org/learn/holocaust-introduction-2) | Tel Aviv | 3 weeks | 1-2 hours/week | self-paced | none | :-1:
+[https://www.coursera.org/learn/holocaust-introduction-2](https://www.coursera.org/learn/jerusalem) | 19 hours | 3-4 hours/week | self-paced | none | :-1:
+[An Introduction to C.S. Lewis: Writings and Significance](https://online.hillsdale.edu/courses/cslewis/home/schedule) | Hillsdale College | 4 weeks | 2-4 hours/week | self-paced | none | :-1:
+[Athens and Sparta](https://online.hillsdale.edu/courses/athens-and-sparta/schedule) | Hillsdale College | 4 weeks | 2-4 hours/week | self-paced | none | :-1:
+[Winston Churchill and Statesmanship](https://online.hillsdale.edu/courses/churchill/home/schedule) | Hillsdale College | 6 weeks | 2-4 hours/week | self-paced | none | :-1:
+[The Second World Wars](https://online.hillsdale.edu/courses/WorldWarII/home/world-war-ii-schedule) | Hillsdale College | 6 weeks | 2-4 hours/week | self-paced | none | :-1:
+[A Proper Understanding of K-12 Education: Theory and Practice](https://online.hillsdale.edu/courses/education/home/edu-course-schedule) | Hillsdale College | 10 weeks | 2-4 hours/week | self-paced | none | :-1:
+
+
+## Politics
+
+Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
+:-- | :--: | :--: | :--: | :--: | :--: | :--:
+[The U.S. Supreme Court](https://online.hillsdale.edu/courses/supreme-court/schedule) | Hillsdale College | 5 weeks | 3-4 hours/week | self-paced | none | :-1:
+[Introduction to the Constitution](https://online.hillsdale.edu/courses/constitution-2017/home/course-schedule) | Hillsdale College | 5 weeks | 3-4 hours/week | self-paced | none | :-1:
+[The Federalist Papers](https://online.hillsdale.edu/courses/federalist-papers/home/course-schedule) | Hillsdale College | 5 weeks | 3-4 hours/week | self-paced | none | :-1:
+[The Presidency and the Consitution](https://online.hillsdale.edu/course/pres101/schedule) | Hillsdale College | 10 weeks | 3-4 hours/week | self-paced | none | :-1:
+[Western Heritage—From the Book of Genesis to John Locke](https://online.hillsdale.edu/courses/western-heritage-2017/home/schedule) | Hillsdale College | 10 weeks | 3-4 hours/week | self-paced | none | :-1:
+[Congress: How It Worked and Why It Doesn't](https://online.hillsdale.edu/courses/congress/home/congress-schedule) | Hillsdale College | 10 weeks | 3-4 hours/week | self-paced | none | :-1:
+
+
 ## Grammar & Writing
 
 Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
@@ -39,6 +67,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
 [Technical Writing](https://www.coursera.org/learn/technical-writing?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-Vm54__pQU8RhrLYTz9anXA&siteID=SAyYsTvLiGQ-Vm54__pQU8RhrLYTz9anXA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | MIPT | 18 hours | 2-4 hours/week | self-paced | none | :-1:
 [Getting Started with Essay Writing](https://www.coursera.org/learn/getting-started-with-essay-writing?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-XKtSsRensuZqtYKVcejA0Q&siteID=SAyYsTvLiGQ-XKtSsRensuZqtYKVcejA0Q&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | UCI | 15 hours | 3-4 hours/week | self-paced | none | :-1:
 
+
 ## Science
 
 Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
@@ -50,6 +79,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
 [Understanding Einstein: The Special Theory of Relativity](https://www.coursera.org/learn/einstein-relativity?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-JK8Qq8E816OSUZl0vtyaYA&siteID=SAyYsTvLiGQ-JK8Qq8E816OSUZl0vtyaYA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | Stanford | 40 hours | 5-10 hours/week | self-paced | none | :-1:
 [Introduction to Chemistry: Structures and Solutions](https://www.coursera.org/learn/basic-chemistry?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-AHXXINV8K2smcpFnsNH.pA&siteID=SAyYsTvLiGQ-AHXXINV8K2smcpFnsNH.pA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | Duke | 26 hours | 2-4 hours/week | self-paced | none | :-1:
 
+
 ## Social Sciences
 
 Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
@@ -60,16 +90,4 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
 [Introduction to Psychology](https://www.coursera.org/learn/introduction-psych?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-nWUDZMherQ8V1isdRbhb5A&siteID=SAyYsTvLiGQ-nWUDZMherQ8V1isdRbhb5A&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | Toronto | 33 hours | 2-4 hours/week | self-paced | none | :-1:
 [Introduction to Developmental Psychology](https://www.edx.org/course/introduction-to-developmental-psychology-1?source=aw&awc=6798_1558158817_63143d86b0c778f64c20596c73d19372&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F) | Queensland | 8 weeks | 2-3 hours/week | self-paced | none | :-1:
 [What is a Mind?](https://www.futurelearn.com/courses/what-is-a-mind?utm_campaign=Courses+feed&utm_medium=courses-feed&utm_source=courses-feed&utm_source=RakutenMarketing&utm_medium=Affiliate&utm_campaign=3347507:Class+Central&utm_content=10:1&utm_term=USNetwork&ranMID=44015&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-C7.A0zANwwWaNsjeKwrcMg) | Cape Town | 6 weeks | 3 hours/week | self-paced | none | :-1:
-
-
-
-
-
-
-
-
-
-
-
-
 
