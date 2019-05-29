@@ -61,12 +61,14 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
 Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
 [Grammar & Punctuation](https://www.coursera.org/learn/grammar-punctuation?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-2Q19TDP3BTBdGTbhZ9dEpg&siteID=SAyYsTvLiGQ-2Q19TDP3BTBdGTbhZ9dEpg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | UCI | 9 hours | 3 hours/week | self-paced | none | :-1:
+[Getting Started with Essay Writing](https://www.coursera.org/learn/getting-started-with-essay-writing?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-XKtSsRensuZqtYKVcejA0Q&siteID=SAyYsTvLiGQ-XKtSsRensuZqtYKVcejA0Q&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | UCI | 15 hours | 3-4 hours/week | self-paced | none | :-1:
+[Advanced Writing](https://www.coursera.org/learn/advanced-writing?specialization=academic-english) | UCI | 15 hours | 2-3 hours/week | self-paced | none | :-1:
+[Introduction to Research for Essay Writing](https://www.coursera.org/learn/introduction-to-research-for-essay-writing?specialization=academic-english) | UCI | 12 hours | 1-3 hours/week | self-paced | none | :-1:
 [Perfect Tenses and Modals](https://www.coursera.org/learn/perfect-tenses-modals?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-nDJCSYqsmqa7VdUfrAU_Lg&siteID=SAyYsTvLiGQ-nDJCSYqsmqa7VdUfrAU_Lg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | UCI | 19 hours | 4 hours/week | self-paced | none | :-1:
 [Adjectives and Adjective Clauses](https://www.coursera.org/learn/adjective-clauses) | UCI | 16 hours | 4 hours/week | self-paced | none | :-1:
 [Tricky English Grammar](https://www.coursera.org/learn/tricky-english-grammar) | UCI | 19 hours | 5 hours/week | self-paced | none | :-1:
 [Intermediate Grammar Project](https://www.coursera.org/learn/intermediate-grammar-capstone) | UCI | 8 hours | 3-4 hours/week | self-paced | none | :-1:
 [Technical Writing](https://www.coursera.org/learn/technical-writing?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-Vm54__pQU8RhrLYTz9anXA&siteID=SAyYsTvLiGQ-Vm54__pQU8RhrLYTz9anXA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | MIPT | 18 hours | 2-4 hours/week | self-paced | none | :-1:
-[Getting Started with Essay Writing](https://www.coursera.org/learn/getting-started-with-essay-writing?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-XKtSsRensuZqtYKVcejA0Q&siteID=SAyYsTvLiGQ-XKtSsRensuZqtYKVcejA0Q&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | UCI | 15 hours | 3-4 hours/week | self-paced | none | :-1:
 
 
 ## Science
