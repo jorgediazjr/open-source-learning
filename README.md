@@ -95,3 +95,9 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Progress | Co
 [Introduction to Developmental Psychology](https://www.edx.org/course/introduction-to-developmental-psychology-1?source=aw&awc=6798_1558158817_63143d86b0c778f64c20596c73d19372&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F) | Queensland | 8 weeks | 2-3 hours/week | self-paced | none | :construction: | :-1:
 [What is a Mind?](https://www.futurelearn.com/courses/what-is-a-mind?utm_campaign=Courses+feed&utm_medium=courses-feed&utm_source=courses-feed&utm_source=RakutenMarketing&utm_medium=Affiliate&utm_campaign=3347507:Class+Central&utm_content=10:1&utm_term=USNetwork&ranMID=44015&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-C7.A0zANwwWaNsjeKwrcMg) | Cape Town | 6 weeks | 3 hours/week | self-paced | none | :construction: | :-1:
 
+
+## Misc
+
+Courses | School | Duration | Effort | Frequency | Prerequisites | Progress | Completed
+:-- | :--: | :--: | :--: | :--: | :--: | :--: | :--:
+[Learning how to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-y8E_b9yIFwfB0RY22h_IfQ&siteID=SAyYsTvLiGQ-y8E_b9yIFwfB0RY22h_IfQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | University of California | 4 weeks | 3 hours/week | self-paced | none | :chart_with_upwards_trend: | :-1:
