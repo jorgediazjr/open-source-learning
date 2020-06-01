@@ -11,7 +11,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Progress | Co
 [Christianity Through its Scriptures](https://www.edx.org/course/christianity-through-its-scriptures?source=aw&awc=6798_1558211188_dd89c14e88b1d1cb535df6923a42435d&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F) | Harvard | 4 weeks | 5-10 hours/week | self-paced | none | :construction: | :-1:
 [Early Christian Outlook and its Jewish Matrix: Narratives of Gospels and Acts](https://www.edx.org/course/early-christian-outlook-and-its-jewish-matrix-narratives-of-gospels-and-acts-2?source=aw&awc=6798_1558211347_487d6977f4f173ccc462222111e92fb5&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F) | IsraelX | 9 weeks | 4-5 hours/week | self-paced | none | :construction: | :-1:
 [Biblical Archaeology: The archaeology of ancient Israel and Judah](https://www.edx.org/course/biblical-archaeology-the-archaeology-of-ancient-israel-and-judah?source=aw&awc=6798_1558211458_7f808266011c192b66901d067f6fdd59&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F) | IsraelX | 8 weeks | 3-4 hours/week | self-paced | none | :construction: | :-1:
-[The Genesis Story: Reading Biblical Narratives](https://lp.hillsdale.edu/genesis/) | Hillsdale College | 5 weeks | 1 hour/week | self-paced | none | :chart_with_upwards_trend: | :-1:
+[The Genesis Story: Reading Biblical Narratives](https://lp.hillsdale.edu/genesis/) | Hillsdale College | 5 weeks | 1 hour/week | self-paced | none | :checkered_flag: | :+1:
 
 
 ## Philosophy
